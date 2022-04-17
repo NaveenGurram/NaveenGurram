@@ -1,4 +1,4 @@
-### Hi I am [Naveen Kumar Gurram](https://github.com/NaveenGurram/NaveenGurram/blob/master/NaveenGurram.pdf). 👋
+### Hi I am [Naveen Kumar Gurram](https://github.com/NaveenGurram/NaveenGurram/raw/master/NaveenGurram.pdf). 👋
  - I'm currently working as Lead Developer in finra 
  - I'm currently learning machinr learning, and expanding my programming language exposure from Java to JavaScript and Rust
  - I'm currently trying to create an android app using Flutter SDK.
