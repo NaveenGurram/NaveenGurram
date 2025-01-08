@@ -1,6 +1,6 @@
 ### Hi I am [Naveen Kumar Gurram](https://www.naveengurram.com/assets/files/resume.html). 👋
  - I'm currently working as Principal Developer in finra 
- - I'm currently learning machinr learning, and expanding my programming language exposure from Java to JavaScript and Rust
+ - I'm currently learning machine learning, and expanding my programming language exposure from Java to JavaScript and Rust
  - I'm currently trying to create an android app using Flutter SDK.
  - I'm looking to collaborate on open source Java, Flutter, Java Script projects
  - Ask Me about Java, Chrome plugins, Flutter
