@@ -28,30 +28,30 @@ I lead architectural direction for cross-functional teams, ensuring that technic
 ---
 
 ### 📊 Professional Impact
-* [cite_start]**Scale:** Successfully onboarded 65+ unique regulatory forms to a centralized intake platform[cite: 17].
-* [cite_start]**Cost Leadership:** Replaced legacy systems with Drools-based solutions, saving **$1 Million** in annual licensing fees[cite: 33].
-* [cite_start]**Efficiency:** Improved team delivery efficiency by **20%** through mentorship and rigorous architecture reviews[cite: 22].
-* [cite_start]**Performance:** Modernized the NMLS application to achieve high availability and support nationwide licensing[cite: 14].
+* **Scale:** Successfully onboarded 65+ unique regulatory forms to a centralized intake platform[cite: 17].
+* **Cost Leadership:** Replaced legacy systems with Drools-based solutions, saving **$1 Million** in annual licensing fees[cite: 33].
+* **Efficiency:** Improved team delivery efficiency by **20%** through mentorship and rigorous architecture reviews[cite: 22].
+* **Performance:** Modernized the NMLS application to achieve high availability and support nationwide licensing[cite: 14].
 
 ---
 
 ### 🎓 Education & Certifications
-- [cite_start]**Wharton School of Business:** Executive Education - FINRA Leadership Development Program (2025)[cite: 38, 39].
-- [cite_start]**Kakatiya University:** Master of Science in Information Systems[cite: 40].
-- [cite_start]**AWS:** Certified Solutions Architect – Associate[cite: 35].
-- [cite_start]**Java:** SUN Certified Java Programmer (SCJP)[cite: 36].
+- **Wharton School of Business:** Executive Education - FINRA Leadership Development Program (2025)[cite: 38, 39].
+- **Kakatiya University:** Master of Science in Information Systems[cite: 40].
+- **AWS:** Certified Solutions Architect – Associate[cite: 35].
+- **Java:** SUN Certified Java Programmer (SCJP)[cite: 36].
 
 ---
 
 ### 📂 Featured Projects
-* [cite_start]**[IsItUp](https://github.com/NaveenGurram/IsItUp):** A real-time Chrome extension for configuring and monitoring endpoint health with a tabular dashboard[cite: 43, 44].
+* **[IsItUp](https://github.com/NaveenGurram/IsItUp):** A real-time Chrome extension for configuring and monitoring endpoint health with a tabular dashboard[cite: 43, 44].
 
 ---
 
 ### 📬 Connect with me
-- [cite_start]**LinkedIn:** [NaveenGurram](https://linkedin.com/in/NaveenGurram) [cite: 2]
-- [cite_start]**Website:** [naveengurram.com](https://www.naveengurram.com) [cite: 2]
-- [cite_start]**GitHub:** [NaveenGurram](https://github.com/NaveenGurram) [cite: 2]
+- **LinkedIn:** [NaveenGurram](https://linkedin.com/in/NaveenGurram) [cite: 2]
+- **Website:** [naveengurram.com](https://www.naveengurram.com) [cite: 2]
+- **GitHub:** [NaveenGurram](https://github.com/NaveenGurram) [cite: 2]
 
 ---
 *"Architecture is about more than how it works—it's about how it scales the business."*
