@@ -44,7 +44,7 @@ I lead architectural direction for cross-functional teams, ensuring that technic
 ---
 
 ### 📂 Featured Projects
-* **[IsItUp](https://github.com/NaveenGurram/IsItUp):** A real-time Chrome extension for configuring and monitoring endpoint health with a tabular dashboard[cite: 43, 44].
+* **[IsItUp](https://github.com/NaveenGurram/IsItUp):** A real-time Chrome extension for configuring and monitoring endpoint health with a tabular dashboard. 
 
 ---
 
