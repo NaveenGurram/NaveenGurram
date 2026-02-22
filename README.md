@@ -49,9 +49,9 @@ I lead architectural direction for cross-functional teams, ensuring that technic
 ---
 
 ### 📬 Connect with me
-- **LinkedIn:** [NaveenGurram](https://linkedin.com/in/NaveenGurram) [cite: 2]
-- **Website:** [naveengurram.com](https://www.naveengurram.com) [cite: 2]
-- **GitHub:** [NaveenGurram](https://github.com/NaveenGurram) [cite: 2]
+- **LinkedIn:** [NaveenGurram](https://linkedin.com/in/NaveenGurram)
+- **Website:** [naveengurram.com](https://www.naveengurram.com)
+- **GitHub:** [NaveenGurram](https://github.com/NaveenGurram)
 
 ---
 *"Architecture is about more than how it works—it's about how it scales the business."*
