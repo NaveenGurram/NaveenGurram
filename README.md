@@ -1,5 +1,5 @@
 # Naveen Gurram 👋
-### Strategic Technology Leader | Principal Software Engineer | Wharton-Trained Architect
+### Strategic Technology Leader | Principal Software Engineer | Wharton-Trained Leader
 
 I am a software architect with over 20 years of experience evolving legacy systems into high-performance, cloud-native ecosystems. Currently, I serve as a **Principal Engineer at FINRA**, where I bridge the gap between complex engineering requirements and executive-level strategic planning.
 
